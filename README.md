@@ -4,7 +4,9 @@ whats up guys, this is a hackathon project that i worked on, GENCSV
 
 
 ![image](https://github.com/EXXPRT/gencsv/assets/113296716/2b4f2517-5a60-4998-818c-ec4d05e139ec)
-![image](https://github.com/EXXPRT/gencsv/assets/113296716/8cd71143-3a38-43ba-bd7b-e45b5d3698ba)
+![image](https://github.com/EXXPRT/gencsv/assets/113296716/b439c2d9-d90b-49b7-b81b-808d48a88973)
+
+
 
 
 
