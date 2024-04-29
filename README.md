@@ -5,6 +5,7 @@ pros:
  - minimal libraries required
  - modular model approach (ability to choose different models from Ollama for different use cases)
  - unique approach to GenAI
+ - ability to improve responses using context injection
 
 cons:
  - lack of conversational skills (can't ask follow up questions)
