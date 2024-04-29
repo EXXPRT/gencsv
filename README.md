@@ -1,4 +1,12 @@
+GenAI CSV chatbot with anlytics using Ollama and PandasAI
+
 whats up guys, this is a hackathon project that i worked on, GENCSV
+
+
+![image](https://github.com/EXXPRT/gencsv/assets/113296716/2b4f2517-5a60-4998-818c-ec4d05e139ec)
+![image](https://github.com/EXXPRT/gencsv/assets/113296716/8cd71143-3a38-43ba-bd7b-e45b5d3698ba)
+
+
 
 pros:
  - simple and easy to understand code
