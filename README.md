@@ -14,7 +14,6 @@ pros:
  - simple and easy to understand code
  - minimal libraries required
  - modular model approach (ability to choose different models from Ollama for different use cases)
- - unique approach to GenAI
  - ability to improve responses using context injection
 
 cons:
