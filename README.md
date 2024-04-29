@@ -1,4 +1,4 @@
-GenAI CSV chatbot with anlytics using Ollama and PandasAI
+local GenAI CSV chatbot with anlytics using Ollama and PandasAI
 
 whats up guys, this is a hackathon project that i worked on, GENCSV
 
@@ -11,6 +11,7 @@ whats up guys, this is a hackathon project that i worked on, GENCSV
 
 
 pros:
+ - 100% local, no APIs required
  - simple and easy to understand code
  - minimal libraries required
  - modular model approach (ability to choose different models from Ollama for different use cases)
